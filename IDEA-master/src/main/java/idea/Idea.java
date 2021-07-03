@@ -5,9 +5,6 @@ import bits.BitArray;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by krzysztofkaczor on 3/11/15.
- */
 public class Idea {
     private IdeaKey originalKey;
     private List<BitArray> encryptionKeys = new ArrayList<BitArray>();

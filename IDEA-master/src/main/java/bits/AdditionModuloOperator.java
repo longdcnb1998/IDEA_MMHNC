@@ -1,8 +1,6 @@
 package bits;
 
-/**
- * Created by krzysztofkaczor on 3/9/15.
- */
+
 public class AdditionModuloOperator implements BinaryOperator {
 
     @Override

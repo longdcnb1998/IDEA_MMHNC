@@ -4,9 +4,7 @@ import bits.BitArray;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by krzysztofkaczor on 3/9/15.
- */
+
 public class BitArrayTest {
     @Test
     public void setterAndGetterTest() {

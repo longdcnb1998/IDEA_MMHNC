@@ -3,9 +3,6 @@ package bits;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by krzysztofkaczor on 3/10/15.
- */
 public class ExclusiveOrOperatorTest
 {
     @Test(expected = IllegalArgumentException.class)

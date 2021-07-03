@@ -5,9 +5,7 @@ import bits.BitArray;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by krzysztofkaczor on 3/12/15.
- */
+
 public class StringToIdeaBlockConverter {
     public List<IdeaBlock> convert(String stringToConvert) {
         List<IdeaBlock> listOfBitArrays = new ArrayList<IdeaBlock>();

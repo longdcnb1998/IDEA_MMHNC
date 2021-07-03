@@ -3,9 +3,6 @@ package idea;
 import bits.BinaryOperator;
 import bits.BitArray;
 
-/**
- * Created by krzysztofkaczor on 3/10/15.
- */
 
 public class IdeaMultiplicationModuloOperator implements BinaryOperator {
     @Override

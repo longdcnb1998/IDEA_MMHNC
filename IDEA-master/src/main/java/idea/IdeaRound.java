@@ -4,9 +4,6 @@ import bits.AdditionModuloOperator;
 import bits.BitArray;
 import bits.ExclusiveOrOperator;
 
-/**
- * Created by krzysztofkaczor on 3/10/15.
- */
 public class IdeaRound {
     public IdeaBlock encrypt(IdeaBlock block, BitArray k1, BitArray k2, BitArray k3, BitArray k4, BitArray k5, BitArray k6) {
         if (    k1.size() != 16 ||

@@ -5,9 +5,7 @@ import bits.BitArray;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by krzysztofkaczor on 3/11/15.
- */
+
 public class IdeaKey {
     private BitArray key;
 

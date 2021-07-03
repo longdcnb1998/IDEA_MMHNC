@@ -5,9 +5,7 @@ import bits.BitArray;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by krzysztofkaczor on 3/9/15.
- */
+
 public class AdditionModuloOperatorTest {
 
     @Test(expected = IllegalArgumentException.class)

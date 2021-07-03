@@ -3,9 +3,7 @@ package bits;
 import java.math.BigInteger;
 import java.util.Arrays;
 
-/**
- * Created by krzysztofkaczor on 3/9/15.
- */
+
 public class BitArray {
     private final int size;
     private boolean bitArray[];

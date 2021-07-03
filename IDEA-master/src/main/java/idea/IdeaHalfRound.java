@@ -3,9 +3,7 @@ package idea;
 import bits.AdditionModuloOperator;
 import bits.BitArray;
 
-/**
- * Created by krzysztofkaczor on 3/11/15.
- */
+
 public class IdeaHalfRound {
     public IdeaBlock encrypt(IdeaBlock block, BitArray k1, BitArray k2, BitArray k3, BitArray k4) {
         if (    k1.size() != 16 ||

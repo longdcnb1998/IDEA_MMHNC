@@ -7,9 +7,6 @@ import idea.StringToIdeaBlockConverter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by krzysztofkaczor on 3/9/15.
- */
 public class Runner {
     public static void main(String[] args) {
         String stringToConvert = "Hello world this in the plain text";

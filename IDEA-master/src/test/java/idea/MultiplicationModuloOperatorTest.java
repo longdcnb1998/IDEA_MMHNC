@@ -5,9 +5,7 @@ import idea.IdeaMultiplicationModuloOperator;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by krzysztofkaczor on 3/10/15.
- */
+
 public class MultiplicationModuloOperatorTest {
     @Test(expected = IllegalArgumentException.class)
     public void shouldThrowExceptionIfOperandAreIncompatible(){

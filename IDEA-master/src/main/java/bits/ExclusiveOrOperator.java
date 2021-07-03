@@ -1,8 +1,5 @@
 package bits;
 
-/**
- * Created by krzysztofkaczor on 3/10/15.
- */
 public class ExclusiveOrOperator implements BinaryOperator
 {
     @Override

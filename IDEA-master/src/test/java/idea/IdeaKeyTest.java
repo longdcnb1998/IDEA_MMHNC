@@ -3,9 +3,7 @@ package idea;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by krzysztofkaczor on 3/11/15.
- */
+
 public class IdeaKeyTest {
 
     @Test

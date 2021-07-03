@@ -4,10 +4,6 @@ import bits.BitArray;
 
 import java.util.IllegalFormatCodePointException;
 
-/**
- * Created by krzysztofkaczor on 3/10/15.
- */
-
 //64bits block
 public class IdeaBlock {
     private final BitArray bitArray;
